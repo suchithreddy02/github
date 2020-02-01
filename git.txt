@@ -1,1 +1,9 @@
 hihihih
+
+
+pwd
+cd dd
+ 
+git add .
+git add filename
+
