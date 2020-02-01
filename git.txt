@@ -6,6 +6,8 @@ cd dd
  
 git add .
 git add filename
+
+
 git commit -m "   "
 
 
